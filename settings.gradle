@@ -1,0 +1,5 @@
+rootProject.name = 'wallet'
+include 'wallet-service'
+include 'processing-service'
+include 'gateway'
+
